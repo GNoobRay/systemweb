@@ -1,0 +1,24 @@
+.ccs_logo{
+    position: absolute;
+    background-color: rgb(179, 179, 179);
+    height: 1000px;
+    width: 421px;
+
+
+    
+}
+
+.logo2{
+     display: inline-block;
+     margin-top: 6px;
+     margin-left: 130px;
+}
+
+.logo3{
+    display:inline-block;
+    margin-left: 15px;
+}
+
+
+
+

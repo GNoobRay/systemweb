@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+
+.ccs{
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 55px;
+}
+.info{
+ 
+ display: top;
+ margin-left: 421px;
+ height: 1000px;
+ width: 1499px;
+
+
+   
+   
+}
+.heading{
+    
+    text-align: center;
+    font-size: 35px;
+    margin-left: 17px;
+    display: inline-block;
+   
+    
+    
+    
+   
+}
+
+.studentinfo{
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+.ID_No
+,.student_name{
+    display: inline-block;
+}
+.ID_No{
+    margin-left: 885px;
+    
+}
+
+.yr_section{
+    margin-left: 885px;
+}
+.course,
+.yr_section{
+    display: inline-block;
+}
+.crse{
+    border-bottom: solid;
+
+    
+}
+
+.course_yrsec{
+    margin-top: 20px;
+}
+.table {
+    margin-top: 70px;
+    width: 90%;
+    border-collapse: collapse;
+    
+}
+td{
+    border: 2px solid rgb(99, 99, 99);
+    padding: 10px;
+}
+th {
+    border: 2px solid #303030;
+    padding: 10px;
+  }
+
+  .Semester,
+  .AY{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+  }
+  .Semester_AY{
+    margin-top: 20px
+  }
+.Semester{
+    margin-left: 580px;
+}
+.AY{
+    margin-left: 5px ;
+}
